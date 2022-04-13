@@ -1,8 +1,8 @@
 # CSC2226
-Running Eager Conversion
-python3 eager.py --number-of-contexts
-i.e. python3 eager.py 5
+Running Eager Conversion <br /><br />
+python3 eager.py --number-of-contexts<br />
+i.e. python3 eager.py 5<br />
 
-Running Lazy Conversion
-python3 lazy.py --number-of-contexts
-i.e. python3 eager.py 5
+Running Lazy Conversion<br /><br />
+python3 lazy.py --number-of-contexts<br />
+i.e. python3 eager.py 5<br />
